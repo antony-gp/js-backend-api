@@ -2,14 +2,16 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Antony Pereira",
 	"description": "A project to learn how to 'backend' with JS :v",
-  "license": "MIT",
+	"license": "MIT",
+	"version": "1.2.0",
 	"keywords": [
 		"backend",
 		"freecodecamp",
 		"api"
 	],
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+    "moment": "^2.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
